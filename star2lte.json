@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1707951730,
-      "filename": "lineage-18.1-20240215-UNOFFICIAL-star2lte.zip",
+      "filename": "lineage-18.1-20240214-UNOFFICIAL-star2lte.zip",
       "id": "mdd17ii26p8ahxr9tic7qjhqllxjnb90",
       "romtype": "UNOFFICIAL",
       "size": 622917585,
-      "url": "https://github.com/WalterEight/OTA/releases/download/star2lte/lineage-18.1-20240215-UNOFFICIAL-star2lte.zip",
+      "url": "https://github.com/WalterEight/OTA/releases/download/star2lte/lineage-18.1-20240214-UNOFFICIAL-star2lte.zip",
       "version": "18.1"
     }
   ]
